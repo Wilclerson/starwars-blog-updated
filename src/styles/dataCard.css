@@ -1,0 +1,7 @@
+.card-link {
+    color: inherit; 
+    text-decoration: none; 
+    transition: transform 0.3s;
+  }.card-link:hover {
+    transform: scale(1.04);
+  }
